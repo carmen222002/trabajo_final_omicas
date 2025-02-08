@@ -77,7 +77,6 @@ archivos_filtrados <- archivos[
     grepl("RPMI_d6_4h", archivos) |
     grepl("RPMI_d6_LPS", archivos)
   ) &
-  !grepl("\\.bw$", archivos) &  # Excluir archivos con extensión .bw
   grepl("\\.txt$", archivos)    # Incluir solo archivos con extensión .txt
 ]
 ```
