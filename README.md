@@ -6,10 +6,10 @@ Este repositorio contiene el análisis de datos de secuenciación de ARN (Bulk R
 
 📁 **Estructura del repositorio**
 
-Bulk-RNA-seq/ 
-- data/ 
+Bulk-RNA-seq
+- data
     - GSE111003_RAW/ # Datos crudos obtenidos de GEO 
-- src/ # Funciones auxiliares para el análisis 
+- src # Funciones auxiliares para el análisis 
 - analisis_RNA-seq.Rmd # Análisis de la matriz de expresión 
 - analisis_RNA-seq.pdf # Explicación detallada del análisis
 
@@ -25,9 +25,9 @@ Los datos utilizados en este análisis provienen de GSE111003, un conjunto de da
 
 - Análisis multivariante:
 
-  ~ PCA (Análisis de Componentes Principales)
+  - PCA (Análisis de Componentes Principales)
 
-  ~ Matriz de correlaciones y distancias
+  - Matriz de correlaciones y distancias
 
 - Análisis de expresión diferencial usando el modelo limma para identificar genes regulados diferencialmente.
 
