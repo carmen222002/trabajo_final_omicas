@@ -36,8 +36,8 @@ Los datos utilizados en este análisis provienen de GSE111003, un conjunto de da
 🚀 **Uso**
 
 - Clonar este repositorio:
-      - git clone https://github.com/carmen222002/Bulk-RNA-seq.git
-      - cd Bulk-RNA-seq
+    - git clone https://github.com/carmen222002/Bulk-RNA-seq.git
+    - cd Bulk-RNA-seq
 
 - Asegurar que tienes R y RStudio instalados.
 
