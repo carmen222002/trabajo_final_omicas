@@ -7,11 +7,11 @@ Este repositorio contiene el análisis de datos de secuenciación de ARN (Bulk R
 📁 **Estructura del repositorio**
 
 Bulk-RNA-seq/ 
-  │── data/ │ 
-    ├── GSE111003_RAW/ # Datos crudos obtenidos de GEO 
-  │── src/ # Funciones auxiliares para el análisis 
-  │── analisis_RNA-seq.Rmd # Análisis de la matriz de expresión 
-  │── analisis_RNA-seq.pdf # Explicación detallada del análisis
+- data/ 
+    - GSE111003_RAW/ # Datos crudos obtenidos de GEO 
+- src/ # Funciones auxiliares para el análisis 
+- analisis_RNA-seq.Rmd # Análisis de la matriz de expresión 
+- analisis_RNA-seq.pdf # Explicación detallada del análisis
 
 📥 **Datos**
 
